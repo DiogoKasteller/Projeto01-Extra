@@ -1,0 +1,71 @@
+body {
+  color: #828282;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+
+#main {
+  width: 626px;
+  margin: 64px auto;
+}
+
+#main img {
+  margin: 0 auto 32px;
+}
+
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-size: 32px;
+  font-weight: medium;
+  color: #3f3d56;
+  margin-bottom: 16px;
+}
+
+h1 span {
+  color: #ee24ff;
+
+  font-weight: bold;
+}
+
+#empresa {
+  font-weight: bold;
+  color: #828282;
+}
+
+p {
+  width: 540px;
+  line-height: 22px;
+  margin: auto auto 32px;
+}
+
+p span {
+  color: #3f3d56;
+  font-weight: bold;
+}
+
+.line {
+  border: 1px solid #eceff2;
+  width: 391px;
+  margin: auto;
+}
+
+footer {
+  margin-top: 16px;
+}
+
+footer p {
+  color: #3f3d56;
+  font-weight: bold;
+  display: inline;
+}
+
+footer p + p {
+  margin-left: 42px;
+}
+
+footer img {
+  padding-top: 40px;
+  display: block;
+  margin: auto;
+}
